@@ -1,5 +1,5 @@
 Projeto que faz parte do bootcamp fullstack da DIO e AVANADE onde foram construidos testes E2E com Cypress para um Blog em Angular.
-Instrutores: Slessandro Nunes e Paulo Marinho
+Instrutores: Alessandro Nunes e Paulo Marinho
 
 
 
