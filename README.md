@@ -1,3 +1,8 @@
+Projeto que faz parte do bootcamp fullstack da DIO e AVANADE onde foram construidos testes E2E com Cypress para um Blog em Angular.
+Instrutores: Slessandro Nunes e Paulo Marinho
+
+
+
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 [![Build Status](https://travis-ci.org/gothinkster/angular-realworld-example-app.svg?branch=master)](https://travis-ci.org/gothinkster/angular-realworld-example-app)
 
